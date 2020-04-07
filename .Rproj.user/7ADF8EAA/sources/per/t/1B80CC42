@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586243196501.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1380004697",
+    "id" : "1B80CC42",
+    "lastKnownWriteTime" : 1586260040,
+    "last_content_update" : 1586260040415,
+    "path" : "D:/ProgramData/Rstdio/R_programming_on_coursera/Hospital_assignment.R",
+    "project_path" : "Hospital_assignment.R",
+    "properties" : {
+        "cursorPosition" : "126,30",
+        "scrollLine" : "119",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
